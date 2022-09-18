@@ -1,0 +1,13 @@
+body{
+  background: #ff0000;
+}
+.caja{
+  background: #FCD123;
+  top: 50px;
+  left: 60px;
+  border: 6px double;
+  width: 100px;
+  height: 100px
+ 
+  
+}
